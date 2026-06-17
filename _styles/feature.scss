@@ -26,6 +26,14 @@ $wrap: 800px;
   object-fit: cover;
 }
 
+.feature-image[data-fit="contain"] {
+  background: var(--background-alt);
+}
+
+.feature-image[data-fit="contain"] img {
+  object-fit: contain;
+}
+
 .feature-text {
   flex-grow: 1;
 }

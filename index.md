@@ -52,6 +52,7 @@ Meet the people behind the lab. Team profiles can be expanded here with roles, b
   image="images/Lab Meeting.jpeg"
   link="team"
   title="Team"
+  fit="contain"
   flip=true
   style="bare"
   text=text
