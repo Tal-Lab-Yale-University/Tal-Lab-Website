@@ -1,9 +1,11 @@
 {% if include.lookup %}
-  {% assign citation = site.data.citations
-    | where_exp: "citation",
-      "citation.id == include.lookup or citation.title contains include.lookup"
-    | first
-  %}
+  {% assign matches = site.data.citations | where_exp: "citation", "citation.id == include.lookup" %}
+  {% assign citation = matches | first %}
+
+  {% if citation == nil %}
+    {% assign matches = site.data.citations | where_exp: "citation", "citation.title contains include.lookup" %}
+    {% assign citation = matches | first %}
+  {% endif %}
 {% else %}
   {% assign citation = include %}
 {% endif %}
@@ -88,8 +90,7 @@
         {% if citation.buttons.size > 0 %}
           <div class="citation-buttons">
             {% for button in citation.buttons %}
-              {%
-                include button.html
+              {% include button.html
                 type=button.type
                 icon=button.icon
                 text=button.text
