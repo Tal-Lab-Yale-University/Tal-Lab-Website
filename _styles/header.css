@@ -145,7 +145,7 @@ header[data-big] .subtitle {
 }
 
 header[data-big].background:before {
-  background-size: contain;
+  background-size: cover;
   background-position: 50% 50%;
   opacity: 0.45;
 }
