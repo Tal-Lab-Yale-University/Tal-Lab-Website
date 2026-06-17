@@ -49,7 +49,7 @@ Meet the people behind the lab. Team profiles can be expanded here with roles, b
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Lab Meeting.jpeg"
   link="team"
   title="Team"
   flip=true
