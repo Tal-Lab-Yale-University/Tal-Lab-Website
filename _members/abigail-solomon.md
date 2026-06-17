@@ -1,6 +1,6 @@
 ---
 name: Abigail Solomon, BS
-image: images/photo.jpg
+image: images/Lab Meeting.jpeg
 role: postgraduate-associate
 description: Postgraduate Associate
 ---

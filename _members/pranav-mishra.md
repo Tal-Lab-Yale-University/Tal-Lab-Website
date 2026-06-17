@@ -1,6 +1,6 @@
 ---
 name: Pranav Mishra, BS
-image: images/photo.jpg
+image: images/Pranav Mishra.jpg
 role: postgraduate-associate
 description: Postgraduate Associate
 ---

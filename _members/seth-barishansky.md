@@ -1,6 +1,6 @@
 ---
 name: Seth Barishansky, MD
-image: images/photo.jpg
+image: images/Seth Barishansky.jpeg
 role: clinical-associate
 description: Clinical Associate
 ---

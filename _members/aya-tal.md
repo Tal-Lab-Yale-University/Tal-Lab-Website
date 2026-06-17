@@ -1,6 +1,6 @@
 ---
 name: Aya Tal, PhD
-image: images/photo.jpg
+image: images/Aya Tal.jpeg
 role: lab-manager
 description: Lab Manager
 ---

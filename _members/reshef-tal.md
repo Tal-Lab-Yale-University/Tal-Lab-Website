@@ -1,6 +1,6 @@
 ---
 name: Reshef Tal, MD, PhD
-image: images/photo.jpg
+image: images/Reshef Tal.jpeg
 role: principal-investigator
 description: Principal Investigator
 ---

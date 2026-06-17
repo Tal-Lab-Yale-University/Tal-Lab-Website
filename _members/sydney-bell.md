@@ -1,6 +1,6 @@
 ---
 name: Sydney Bell, BSA
-image: images/photo.jpg
+image: images/Sydney Bell.jpeg
 role: postgraduate-associate
 description: Postgraduate Associate
 ---
