@@ -7,21 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+This section is ready for Tal Lab publications, preprints, presentations, and other research outputs. The template's sample citations have been removed from the public page so only real lab work appears here once it is added.
 
 {% include section.html %}
 
-## Highlighted
+## Coming Soon
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
-
-## All
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
+Add publications to `_data/sources.yaml` or regenerate `_data/citations.yaml` when Tal Lab citation data is ready, and this page can switch back to a searchable publication list.

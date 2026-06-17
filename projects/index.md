@@ -7,21 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include tags.html tags="publication, resource, website" %}
-
-{% include search-info.html %}
+This section will feature Tal Lab software, datasets, internal tools, and other public-facing resources. The stock demo cards have been removed so the page does not advertise placeholder projects.
 
 {% include section.html %}
 
-## Featured
+## Coming Soon
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
-
-{% include section.html %}
-
-## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+Project cards can be added later in `_data/projects.yaml` once there are real links, descriptions, and images to publish.

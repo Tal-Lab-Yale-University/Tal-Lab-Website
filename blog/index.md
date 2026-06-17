@@ -7,15 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+This page can host announcements, lab news, event recaps, and longer-form writing from Tal Lab. The sample blog posts have been removed so the archive starts clean.
 
 {% include section.html %}
 
-{% include search-box.html %}
+## Coming Soon
 
-{% include tags.html tags=site.tags %}
-
-{% include search-info.html %}
-
-{% include list.html data="posts" component="post-excerpt" %}
+Add posts in `_posts/` whenever you're ready to publish updates.
