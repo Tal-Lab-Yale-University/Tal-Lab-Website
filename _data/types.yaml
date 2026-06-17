@@ -6,6 +6,22 @@ principal-investigator:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
+lab-manager:
+  icon: fa-solid fa-flask
+  description: Lab Manager
+
+clinical-associate:
+  icon: fa-solid fa-stethoscope
+  description: Clinical Associate
+
+postgraduate-associate:
+  icon: fa-solid fa-user-graduate
+  description: Postgraduate Associate
+
+research-assistant:
+  icon: fa-solid fa-vials
+  description: Research Assistant
+
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
