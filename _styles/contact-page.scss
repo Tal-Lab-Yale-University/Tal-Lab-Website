@@ -1,0 +1,92 @@
+---
+---
+
+.contact-intro {
+  max-width: 850px;
+}
+
+.contact-kicker {
+  margin-bottom: 12px;
+  color: var(--primary);
+  font-family: var(--heading);
+  font-size: 0.95rem;
+  font-weight: var(--semi-bold);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.contact-lead {
+  font-size: var(--xl);
+  line-height: 1.8;
+}
+
+.contact-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin-top: 30px;
+}
+
+.contact-actions .button {
+  min-width: 220px;
+}
+
+.contact-panel {
+  height: 100%;
+  padding: 32px;
+  border-radius: 18px;
+  background: linear-gradient(180deg, var(--background) 0%, var(--background-alt) 100%);
+  box-shadow: var(--shadow);
+}
+
+.contact-panel h2 {
+  margin-top: 0;
+  margin-bottom: 18px;
+}
+
+.contact-copy {
+  margin-bottom: 24px;
+  color: var(--dark-gray);
+}
+
+.contact-detail {
+  margin-top: 22px;
+  padding-top: 22px;
+  border-top: 1px solid var(--light-gray);
+  line-height: 1.8;
+}
+
+.contact-detail a {
+  font-weight: var(--semi-bold);
+}
+
+.contact-map {
+  height: 100%;
+  min-height: 420px;
+  overflow: hidden;
+  border-radius: 18px;
+  box-shadow: var(--shadow);
+}
+
+.contact-map iframe {
+  width: 100%;
+  height: 100%;
+  min-height: 420px;
+  border: 0;
+}
+
+@media (max-width: 750px) {
+  .contact-lead {
+    font-size: 1.15rem;
+  }
+
+  .contact-panel {
+    padding: 24px;
+  }
+
+  .contact-map,
+  .contact-map iframe {
+    min-height: 320px;
+  }
+}
