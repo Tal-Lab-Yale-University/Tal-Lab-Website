@@ -16,7 +16,8 @@
   %}
   {% assign image = section
     | regex_scan: "<background>(.*?)</background>"
-    | default: nil
+    | default: ""
+    | strip
   %}
   {% assign size = section
     | regex_scan: "<size>(.*?)</size>"
@@ -29,7 +30,7 @@
     {% if dark == "true" or dark == "false" %}
       data-dark="{{ dark }}"
     {% endif %}
-    {% if image %}
+    {% if image != "" and image contains ".jpg" or image contains ".jpeg" or image contains ".png" or image contains ".webp" or image contains ".svg" %}
       style="--image: url('{{ image | relative_url | uri_escape }}')"
     {% endif %}
   >
