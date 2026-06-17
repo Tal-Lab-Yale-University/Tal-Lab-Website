@@ -166,3 +166,7 @@ header[data-big] {
     font-size: var(--large);
   }
 }
+
+header[data-big].background:before {
+  opacity: 0.45;
+}
