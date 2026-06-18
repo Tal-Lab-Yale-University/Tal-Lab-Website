@@ -1,6 +1,6 @@
 ---
 name: Abigail Borrelli
-image: images/photo.jpg
+image: images/Abigail Borrelli.JPG
 role: research-assistant
 description: Research Assistant
 ---
