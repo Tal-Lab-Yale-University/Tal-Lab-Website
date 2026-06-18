@@ -1,5 +1,986 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:42148713
+  title: Surgical resection of longitudinal vaginal septum improves fertility and
+    reproductive capacity in mice.
+  authors:
+  - Abigail E Solomon
+  - Yotam Ashkenazi
+  - M Natalia Chaves Rivera
+  - Sydney Bell
+  - Chase A Burzynski
+  - Harvey J Kliman
+  - Aya Tal
+  - Reshef Tal
+  publisher: Reproduction & fertility
+  date: '2026-05-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42148713
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:41332749
+  title: Dynamics of Macrophage Polarization Reveal Unique Phenotypes During Mouse
+    Postpartum Uterine Remodeling.
+  authors:
+  - Maria Natalia Chaves Rivera
+  - Sydney Bell
+  - Abigail Solomon
+  - Harvey J Kliman
+  - Aya Tal
+  - Reshef Tal
+  publisher: 'bioRxiv : the preprint server for biology'
+  date: '2025-09-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41332749
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:41294044
+  title: Endometrial Injury and Its Rescue by Mesenchymal Stem Cells Is Dependent
+    on Estrous Cycle Phase.
+  authors:
+  - Ramanaiah Mamillapalli
+  - Ying Liu
+  - Yuping Zhou
+  - Reshef Tal
+  - Hugh S Taylor
+  publisher: Journal of cellular and molecular medicine
+  date: '2025-11-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41294044
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:40950435
+  title: Disparities in Cardiovascular Disease in Women with Adverse Pregnancy Outcomes.
+  authors:
+  - Maria Natalia Chaves Rivera
+  - Santiago Clocchiatti-Tuozzo
+  - Daniela Renedo
+  - Cyprien A Rivier
+  - Shufan Huo
+  - Ryan M Hebert
+  - Mitchell S V Elkind
+  - Aaron Lazorwitz
+  - Charles C Matouk
+  - Reshef Tal
+  - Guido J Falcone
+  publisher: 'medRxiv : the preprint server for health sciences'
+  date: '2025-09-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40950435
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:37815869
+  title: Maternal CXCR4 deletion results in placental defects and pregnancy loss mediated
+    by immune dysregulation.
+  authors:
+  - Fang Lyu
+  - Chase Burzynski
+  - Yuan Yuan Fang
+  - Aya Tal
+  - Alice Y Chen
+  - Jacqueline Kisa
+  - Kriti Agrawal
+  - Yuval Kluger
+  - Hugh S Taylor
+  - Reshef Tal
+  publisher: JCI insight
+  date: '2023-11-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37815869
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:37020210
+  title: AMH predicts miscarriage in non-PCOS but not in PCOS related infertility
+    ART cycles.
+  authors:
+  - Christopher Arkfeld
+  - Eric Han
+  - Reshef Tal
+  - David B Seifer
+  publisher: 'Reproductive biology and endocrinology : RB&E'
+  date: '2023-04-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37020210
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:36739415
+  title: AMH independently predicts aneuploidy but not live birth per transfer in
+    IVF PGT-A cycles.
+  authors:
+  - Howard J Li
+  - David B Seifer
+  - Reshef Tal
+  publisher: 'Reproductive biology and endocrinology : RB&E'
+  date: '2023-02-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36739415
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:36583552
+  title: 'Risk factors for haemodynamic compromise in multisystem inflammatory syndrome
+    in children: a multicentre retrospective study.'
+  authors:
+  - Kfir Kaidar
+  - Yotam Dizitzer
+  - Philip J Hashkes
+  - Linda Wagner-Weiner
+  - Melissa Tesher
+  - Yonatan Butbul Aviel
+  - Kanteman Inbar
+  - Yackov Berkun
+  - Eli M Eisenstein
+  - Mohamad Hamad Saied
+  - Ofra Goldzweig
+  - Merav Heshin-Bekenstein
+  - Eduard Ling
+  - Michal Feldon
+  - Yoel Levinsky
+  - Rotem Tal
+  - Liora Harel
+  - Gil Amarilyo
+  publisher: Rheumatology (Oxford, England)
+  date: '2023-08-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36583552
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:36136629
+  title: Sustainable Elimination of Schistosomiasis in Ethiopia-A Five-Year Follow-Up
+    Study.
+  authors:
+  - Lotte Ben Gal
+  - Michal Bruck
+  - Robyn Tal
+  - Sarit Baum
+  - Jemal Mahdi Ali
+  - Lemlem Legesse Weldegabriel
+  - Galia Sabar
+  - Rachel Golan
+  - Zvi Bentwich
+  publisher: Tropical medicine and infectious disease
+  date: '2022-09-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36136629
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:36016095
+  title: 'Case Series of Myocarditis Following mRNA COVID Vaccine Compared to Pediatric
+    Multisystem Inflammatory Syndrome: Multicenter Retrospective Study.'
+  authors:
+  - Yonatan Butbul Aviel
+  - Philip J Hashkes
+  - Yotam Dizitzer
+  - Kanteman Inbar
+  - Yackov Berkun
+  - Eli M Eisenstein
+  - Mohamad Hamad Saied
+  - Ofra Goldzweig
+  - Merav Heshin-Bekenstein
+  - Eduard Ling
+  - Michal Feldon
+  - Rotem Tal
+  - Shiran Pinchevski-Kadir
+  - Irit Tirosh
+  - Liora Harel
+  - Gil Amarilyo
+  - Kfir Kaidar
+  publisher: Vaccines
+  date: '2022-07-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36016095
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:35134114
+  title: "Chemokine C-X-C receptor 4 mediates recruitment of bone marrow-derived nonhematopoietic\
+    \ and immune cells to the pregnant uterus\u2020."
+  authors:
+  - Yuan-Yuan Fang
+  - Fang Lyu
+  - Nafeesa Abuwala
+  - Aya Tal
+  - Alice Y Chen
+  - Hugh S Taylor
+  - Reshef Tal
+  publisher: Biology of reproduction
+  date: '2022-06-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35134114
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:34597604
+  title: 'Reply to cai et al regarding "vertical transmission of coronavirus disease
+    2019: a systematic review and meta-analysis".'
+  authors:
+  - Alexander M Kotlyar
+  - Reshef Tal
+  publisher: American journal of obstetrics and gynecology
+  date: '2021-09-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34597604
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:34224633
+  title: Bone marrow-derived progenitor cells contribute to remodeling of the postpartum
+    uterus.
+  authors:
+  - Reshef Tal
+  - Jacqueline Kisa
+  - Nafeesa Abuwala
+  - Harvey J Kliman
+  - Shafiq Shaikh
+  - Alice Y Chen
+  - Fang Lyu
+  - Hugh S Taylor
+  publisher: Stem cells (Dayton, Ohio)
+  date: '2021-08-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34224633
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33964217
+  title: Loss of Cxcr4 in Endometriosis Reduces Proliferation and Lesion Number while
+    Increasing Intraepithelial Lymphocyte Infiltration.
+  authors:
+  - Aya Tal
+  - Reshef Tal
+  - Harvey J Kliman
+  - Hugh S Taylor
+  publisher: The American journal of pathology
+  date: '2021-05-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33964217
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33896919
+  title: 'Endometrial stem cells: origin, biological function, and therapeutic applications
+    for reproductive disorders.'
+  authors:
+  - Nafeesa Abuwala
+  - Reshef Tal
+  publisher: Current opinion in obstetrics & gynecology
+  date: '2021-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33896919
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33729496
+  title: AMH Highly Correlates With Cumulative Live Birth Rate in Women with Diminished
+    Ovarian Reserve Independent of Age.
+  authors:
+  - Reshef Tal
+  - David B Seifer
+  - Renana Tal
+  - Emily Granger
+  - Ethan Wantman
+  - Oded Tal
+  publisher: The Journal of clinical endocrinology and metabolism
+  date: '2021-08-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33729496
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33548190
+  title: 'Genital tuberculosis screening at an academic fertility center in the United
+    States: a reply.'
+  authors:
+  - Reshef Tal
+  - Lubna Pal
+  publisher: American journal of obstetrics and gynecology
+  date: '2021-02-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33548190
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33424968
+  title: 'Vitamin D Supplementation Ameliorates Metabolic Dysfunction in Patients
+    with PCOS: A SystematicReview of RCTs and Insight into the Underlying Mechanism.'
+  authors:
+  - Shan Guo
+  - Reshef Tal
+  - Haoyu Jiang
+  - Tao Yuan
+  - Ying Liu
+  publisher: International journal of endocrinology
+  date: '2020-12-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33424968
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33221290
+  title: Vertical transmission of coronavirus disease 2019, a response.
+  authors:
+  - Alexander M Kotlyar
+  - Oded Tal
+  - Reshef Tal
+  publisher: American journal of obstetrics and gynecology
+  date: '2020-11-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33221290
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32919952
+  title: Reply.
+  authors:
+  - Alexander Kotlyar
+  - Reshef Tal
+  publisher: American journal of obstetrics and gynecology
+  date: '2020-09-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32919952
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32739398
+  title: 'Vertical transmission of coronavirus disease 2019: a systematic review and
+    meta-analysis.'
+  authors:
+  - Alexander M Kotlyar
+  - Olga Grechukhina
+  - Alice Chen
+  - Shota Popkhadze
+  - Alyssa Grimshaw
+  - Oded Tal
+  - Hugh S Taylor
+  - Reshef Tal
+  publisher: American journal of obstetrics and gynecology
+  date: '2020-07-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32739398
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32573498
+  title: SARS-CoV-2 infection of the placenta.
+  authors:
+  - Hillary Hosier
+  - Shelli F Farhadian
+  - Raffaella A Morotti
+  - Uma Deshmukh
+  - Alice Lu-Culligan
+  - Katherine H Campbell
+  - Yuki Yasumoto
+  - Chantal Bf Vogels
+  - Arnau Casanovas-Massana
+  - Pavithra Vijayakumar
+  - Bertie Geng
+  - Camila D Odio
+  - John Fournier
+  - Anderson F Brito
+  - Joseph R Fauver
+  - Feimei Liu
+  - Tara Alpert
+  - Reshef Tal
+  - Klara Szigeti-Buck
+  - Sudhir Perincheri
+  - Christopher Larsen
+  - Aileen M Gariepy
+  - Gabriela Aguilar
+  - Kristen L Fardelmann
+  - Malini Harigopal
+  - Hugh S Taylor
+  - Christian M Pettker
+  - Anne L Wyllie
+  - Charles Dela Cruz
+  - Aaron M Ring
+  - Nathan D Grubaugh
+  - Albert I Ko
+  - Tamas L Horvath
+  - Akiko Iwasaki
+  - Uma M Reddy
+  - Heather S Lipkind
+  publisher: The Journal of clinical investigation
+  date: '2020-09-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32573498
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32497612
+  title: Genital tuberculosis screening at an academic fertility center in the United
+    States.
+  authors:
+  - Reshef Tal
+  - Tiwadeye Lawal
+  - Emily Granger
+  - Michael Simoni
+  - Pei Hui
+  - Natalia Buza
+  - Lubna Pal
+  publisher: American journal of obstetrics and gynecology
+  date: '2020-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32497612
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32481491
+  title: "The Association between Vitamin D and Anti-M\xFCllerian Hormone: A Systematic\
+    \ Review and Meta-Analysis."
+  authors:
+  - Irene Moridi
+  - Alice Chen
+  - Oded Tal
+  - Reshef Tal
+  publisher: Nutrients
+  date: '2020-05-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32481491
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32156287
+  title: High serum Antimullerian hormone levels are associated with lower live birth
+    rates in women with polycystic ovarian syndrome undergoing assisted reproductive
+    technology.
+  authors:
+  - Reshef Tal
+  - Charles M Seifer
+  - Moisey Khanimov
+  - David B Seifer
+  - Oded Tal
+  publisher: 'Reproductive biology and endocrinology : RB&E'
+  date: '2020-03-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32156287
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31668789
+  title: 'Uterine stem cells: potential and pitfalls.'
+  authors:
+  - Reshef Tal
+  - Jacqueline Kisa
+  publisher: Maturitas
+  date: '2019-10-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31668789
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31513564
+  title: Adult bone marrow progenitors become decidual cells and contribute to embryo
+    implantation and pregnancy.
+  authors:
+  - Reshef Tal
+  - Shafiq Shaikh
+  - Pallavi Pallavi
+  - Aya Tal
+  - "Francesc L\xF3pez-Gir\xE1ldez"
+  - Fang Lyu
+  - Yuan-Yuan Fang
+  - Shruti Chinchanikar
+  - Ying Liu
+  - Harvey J Kliman
+  - Myles Alderman
+  - Nicola Pluchino
+  - Jehanzeb Kayani
+  - Ramanaiah Mamillapalli
+  - Diane S Krause
+  - Hugh S Taylor
+  publisher: PLoS biology
+  date: '2019-09-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31513564
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:30994481
+  title: "Anti-M\xFCllerian Hormone and Its Predictive Utility in Assisted Reproductive\
+    \ Technologies Outcomes."
+  authors:
+  - Emily Granger
+  - Reshef Tal
+  publisher: Clinical obstetrics and gynecology
+  date: '2019-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30994481
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:30869747
+  title: "Endometrial cells contribute to preexisting endometriosis lesions in a mouse\
+    \ model of retrograde menstruation\u2020."
+  authors:
+  - Aya Tal
+  - Reshef Tal
+  - Nicola Pluchino
+  - Hugh S Taylor
+  publisher: Biology of reproduction
+  date: '2019-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30869747
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:30601943
+  title: "Bone-marrow-derived endothelial progenitor cells contribute to vasculogenesis\
+    \ of pregnant mouse uterus\u2020."
+  authors:
+  - Reshef Tal
+  - Dirong Dong
+  - Shafiq Shaikh
+  - Ramanaiah Mamillapalli
+  - Hugh S Taylor
+  publisher: Biology of reproduction
+  date: '2019-05-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30601943
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:30304517
+  title: "Characterization of cell fusion in an experimental mouse model of endometriosis\u2020\
+    ."
+  authors:
+  - A Tal
+  - R Tal
+  - S Shaikh
+  - S Gidicsin
+  - R Mamillapalli
+  - H S Taylor
+  publisher: Biology of reproduction
+  date: '2019-02-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30304517
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:30084961
+  title: Bone marrow-derived cells or C-X-C motif chemokine 12 (CXCL12) treatment
+    improve thin endometrium in a mouse model.
+  authors:
+  - Kyong Wook Yi
+  - Ramanaiah Mamillapalli
+  - Cagdas Sahin
+  - Jaeyen Song
+  - Reshef Tal
+  - Hugh S Taylor
+  publisher: Biology of reproduction
+  date: '2019-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30084961
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29935643
+  title: Same-day confirmation of intrauterine pregnancy failure in women with first-
+    and early second-trimester bleeding.
+  authors:
+  - Amir Mor
+  - Reshef Tal
+  - Shoshana Haberman
+  - Bharati Kalgi
+  - Susan Hosseini Nasab
+  - Howard Minkoff
+  publisher: Fertility and sterility
+  date: '2018-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29935643
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29617213
+  title: Child-Parent Relationship Therapy with Extra-Familial Abused Children.
+  authors:
+  - Roy Tal
+  - Kineret Tal
+  - Ohad Green
+  publisher: Journal of child sexual abuse
+  date: '2018-04-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29617213
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29587613
+  title: G-Protein-Coupled Receptor CXCR7 Is Overexpressed in Human and Murine Endometriosis.
+  authors:
+  - Nicola Pluchino
+  - Ramanaiah Mamillapalli
+  - Irene Moridi
+  - Reshef Tal
+  - Hugh S Taylor
+  publisher: Reproductive sciences (Thousand Oaks, Calif.)
+  date: '2018-03-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29587613
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29381782
+  title: Pathway of Maternal Serotonin to the Human Embryo and Fetus.
+  authors:
+  - Harvey J Kliman
+  - Sarah B Quaratella
+  - Alessandra C Setaro
+  - Erin C Siegman
+  - Zarrin T Subha
+  - Reshef Tal
+  - Kristin M Milano
+  - Theodore L Steck
+  publisher: Endocrinology
+  date: '2018-04-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29381782
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29331235
+  title: "Antim\xFCllerian hormone as a predictor of live birth following assisted\
+    \ reproduction: an analysis of 85,062 fresh and thawed cycles from the Society\
+    \ for Assisted Reproductive Technology Clinic Outcome Reporting System database\
+    \ for 2012-2013."
+  authors:
+  - Reshef Tal
+  - David B Seifer
+  - Ethan Wantman
+  - Valerie Baker
+  - Oded Tal
+  publisher: Fertility and sterility
+  date: '2018-01-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29331235
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28938896
+  title: Effect of local endometrial injury in proliferative vs. luteal phase on IVF
+    outcomes in unselected subfertile women undergoing in vitro fertilization.
+  authors:
+  - Wenjie Liu
+  - Reshef Tal
+  - He Chao
+  - Minghui Liu
+  - Ying Liu
+  publisher: 'Reproductive biology and endocrinology : RB&E'
+  date: '2017-09-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28938896
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28782281
+  title: Systemic administration of bone marrow-derived cells leads to better uterine
+    engraftment than use of uterine-derived cells or local injection.
+  authors:
+  - Ying Liu
+  - Reshef Tal
+  - Nicola Pluchino
+  - Ramanaiah Mamillapalli
+  - Hugh S Taylor
+  publisher: Journal of cellular and molecular medicine
+  date: '2017-08-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28782281
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28350328
+  title: 'Vitamin D Decreases Serum VEGF Correlating with Clinical Improvement in
+    Vitamin D-Deficient Women with PCOS: A Randomized Placebo-Controlled Trial.'
+  authors:
+  - Mohamad Irani
+  - David B Seifer
+  - Richard V Grazi
+  - Sara Irani
+  - Zev Rosenwaks
+  - Reshef Tal
+  publisher: Nutrients
+  date: '2017-03-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28350328
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28235465
+  title: 'Ovarian reserve testing: a user''s guide.'
+  authors:
+  - Reshef Tal
+  - David B Seifer
+  publisher: American journal of obstetrics and gynecology
+  date: '2017-02-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28235465
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27913135
+  title: Mycophenolate mofetil attenuates uterine ischaemia/reperfusion injury in
+    a rat model.
+  authors:
+  - Gulcin Sahin Ersoy
+  - Meryem Kurek Eken
+  - Ozge Cevik
+  - Ozlem T Cilingir
+  - Reshef Tal
+  publisher: Reproductive biomedicine online
+  date: '2016-11-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27913135
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27795706
+  title: Inositol Treatment and ART Outcomes in Women with PCOS.
+  authors:
+  - Deepika Garg
+  - Reshef Tal
+  publisher: International journal of endocrinology
+  date: '2016-10-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27795706
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27760569
+  title: 'Abdominal ectopic pregnancy after in vitro fertilization and single embryo
+    transfer: a case report and systematic review.'
+  authors:
+  - Nicole Yoder
+  - Reshef Tal
+  - J Ryan Martin
+  publisher: 'Reproductive biology and endocrinology : RB&E'
+  date: '2016-10-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27760569
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27591248
+  title: 'Sexual function in endometriosis patients and their partners: effect of
+    the disease and consequences of treatment.'
+  authors:
+  - Nicola Pluchino
+  - Jean-Marie Wenger
+  - Patrick Petignat
+  - Reshef Tal
+  - Mylene Bolmont
+  - Hugh S Taylor
+  - Francesco Bianchi-Demicheli
+  publisher: Human reproduction update
+  date: '2016-09-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27591248
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27427897
+  title: A Murine 5-Fluorouracil-Based Submyeloablation Model for the Study of Bone
+    Marrow-Derived Cell Trafficking in Reproduction.
+  authors:
+  - Reshef Tal
+  - Ying Liu
+  - Nicola Pluchino
+  - Shafiq Shaikh
+  - Ramanaiah Mamillapalli
+  - Hugh S Taylor
+  publisher: Endocrinology
+  date: '2016-07-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27427897
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27174394
+  title: The role of AMH in the pathophysiology of polycystic ovarian syndrome.
+  authors:
+  - Deepika Garg
+  - Reshef Tal
+  publisher: Reproductive biomedicine online
+  date: '2016-04-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27174394
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27083693
+  title: N-acetylcysteine leads to greater ovarian protection than enoxaparin sodium
+    in a rat ovarian torsion model.
+  authors:
+  - Gulcin Sahin Ersoy
+  - Meryem Eken
+  - Reshef Tal
+  - Deniz Oztekin
+  - Belgin Devranoglu
+  - Ecmel Isik Kaygusuz
+  - Ozge Cevik
+  publisher: Reproductive biomedicine online
+  date: '2016-04-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27083693
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26485217
+  title: "Vitamin D Supplementation Decreases TGF-\u03B21 Bioavailability in PCOS:\
+    \ A Randomized Placebo-Controlled Trial."
+  authors:
+  - Mohamad Irani
+  - David B Seifer
+  - Richard V Grazi
+  - Nitasha Julka
+  - Devika Bhatt
+  - Bharati Kalgi
+  - Sara Irani
+  - Oded Tal
+  - Geralyn Lambert-Messerlian
+  - Reshef Tal
+  publisher: The Journal of clinical endocrinology and metabolism
+  date: '2015-10-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26485217
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26304048
+  title: A systematic review and meta-analysis of metformin among patients with polycystic
+    ovary syndrome undergoing assisted reproductive technology procedures.
+  authors:
+  - Xiaman Huang
+  - Pin Wang
+  - Reshef Tal
+  - Fang Lv
+  - Yuanyuan Li
+  - Xiaomei Zhang
+  publisher: 'International journal of gynaecology and obstetrics: the official organ
+    of the International Federation of Gynaecology and Obstetrics'
+  date: '2015-07-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26304048
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26049289
+  title: 'Personalized prediction of live birth: Are we there yet?'
+  authors:
+  - David B Seifer
+  - Reshef Tal
+  publisher: Fertility and sterility
+  date: '2015-06-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26049289
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26036901
+  title: The emerging role of angiogenic factor dysregulation in the pathogenesis
+    of polycystic ovarian syndrome.
+  authors:
+  - Reshef Tal
+  - David B Seifer
+  - Aydin Arici
+  publisher: Seminars in reproductive medicine
+  date: '2015-06-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26036901
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:25832854
+  title: 'Acute presentation of gestational diabetes insipidus with pre-eclampsia
+    complicated by cerebral vasoconstriction: a case report and review of the published
+    work.'
+  authors:
+  - Amir Mor
+  - Yael Fuchs
+  - Kathleen Zafra
+  - Shoshana Haberman
+  - Reshef Tal
+  publisher: The journal of obstetrics and gynaecology research
+  date: '2015-04-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25832854
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:25450298
+  title: "Antim\xFCllerian hormone as predictor of implantation and clinical pregnancy\
+    \ after assisted conception: a systematic review and meta-analysis."
+  authors:
+  - Reshef Tal
+  - Oded Tal
+  - Benjamin J Seifer
+  - David B Seifer
+  publisher: Fertility and sterility
+  date: '2014-10-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25450298
+  term: '"Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation]
+    OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])'
+  type: paper
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: doi:10.1016/j.patter.2026.101514
   title: Scalable data harmonization for single-cell image-based profiling with CytoTable
   authors:
