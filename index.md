@@ -34,6 +34,32 @@ Explore the questions, methods, and publication record that shape the lab's work
 
 {% capture text %}
 
+Stay up to date with lab announcements, milestones, publications, presentations, and other updates as Tal Lab grows.
+
+{%
+  include button.html
+  link="news"
+  text="Read our news"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Lab Meeting.jpeg"
+  link="news"
+  title="News"
+  fit="contain"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+{% capture text %}
+
 Meet the people behind the lab. Team profiles can be expanded here with roles, bios, and ways to connect.
 
 {%
