@@ -1,0 +1,3 @@
+- term: >-
+    "Tal R"[Author] AND ("Yale"[Affiliation] OR "University of Cincinnati"[Affiliation] OR "Ben-Gurion University"[Affiliation] OR "Kaplan Medical Center"[Affiliation])
+  type: paper
