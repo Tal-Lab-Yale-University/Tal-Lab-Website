@@ -26,7 +26,7 @@ Explore the questions, methods, and publication record that shape the lab's work
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research card pic.png"
   link="research"
   title="Research"
   text=text
