@@ -13,6 +13,12 @@ on:
 
   # run if user manually requests it
   workflow_dispatch:
+    inputs:
+      open-pr:
+        description: Open a pull request instead of pushing directly
+        required: false
+        type: boolean
+        default: true
 
 permissions:
   contents: write
@@ -80,7 +86,8 @@ jobs:
         if: |
           github.event.action != 'closed' &&
           steps.changed.outputs.files_changed == 'true' &&
-          inputs.open-pr != true
+          inputs.open-pr != true &&
+          github.event.inputs.open-pr != 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update citations"
@@ -89,7 +96,7 @@ jobs:
         if: |
           github.event.action != 'closed' &&
           steps.changed.outputs.files_changed == 'true' &&
-          inputs.open-pr == true
+          (inputs.open-pr == true || github.event.inputs.open-pr == 'true')
         uses: peter-evans/create-pull-request@v6
         with:
           branch: citation-update
