@@ -49,7 +49,7 @@ Stay up to date with lab announcements, milestones, publications, presentations,
 
 {%
   include feature.html
-  image="images/Lab Meeting.jpeg"
+  image="images/News picture.jpeg"
   link="news"
   title="News"
   fit="contain"
