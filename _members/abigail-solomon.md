@@ -23,3 +23,7 @@ University in Newport, Rhode Island. During her time at Salve, she
 spent three years in a microbiology lab investigating *Salmonella
 enterica* serovar Typhimurium and its role in plant-pathogen
 interactions.
+
+When she's not in the lab, Abby enjoys spending time with her family
+and friends on the lake, traveling, reading, and tending to her
+tropical plant garden.
